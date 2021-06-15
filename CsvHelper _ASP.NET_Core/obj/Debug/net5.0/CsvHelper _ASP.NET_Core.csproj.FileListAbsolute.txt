@@ -1,0 +1,42 @@
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\appsettings.json
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.exe
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.deps.json
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.runtimeconfig.json
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.runtimeconfig.dev.json
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.dll
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\ref\CsvHelper _ASP.NET_Core.dll
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.pdb
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.Views.dll
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper _ASP.NET_Core.Views.pdb
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\bin\Debug\net5.0\CsvHelper.dll
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.AssemblyInfo.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.RazorAssemblyInfo.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.RazorAssemblyInfo.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\staticwebassets\CsvHelper _ASP.NET_Core.StaticWebAssets.Manifest.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\staticwebassets\CsvHelper _ASP.NET_Core.StaticWebAssets.xml
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\scopedcss\bundle\CsvHelper _ASP.NET_Core.styles.css
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.TagHelpers.input.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.TagHelpers.output.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.RazorCoreGenerate.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.RazorTargetAssemblyInfo.cache
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.RazorTargetAssemblyInfo.cs
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.Views.pdb
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.csproj.CopyComplete
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.dll
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\ref\CsvHelper _ASP.NET_Core.dll
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.pdb
+C:\Users\Developer\source\repos\CsvHelper _ASP.NET_Core\CsvHelper _ASP.NET_Core\obj\Debug\net5.0\CsvHelper _ASP.NET_Core.genruntimeconfig.cache
